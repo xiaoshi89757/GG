@@ -1,0 +1,20 @@
+1.ctrl+ h 当前类方法
+    ctrl+n
+    ctrl+f
+快捷键
+            psvm
+            sout
+                soutp   形参
+                soutm   main 方法
+                soutv   就近输出变量
+            fori
+
+            list.for
+            list.fori 自增for循环
+            list.forr 自减for循环
+
+            ifn  if(list = null)
+            inn  if(list != null )
+            xxx.nn
+            xxx.null
+            prsf    private static final
